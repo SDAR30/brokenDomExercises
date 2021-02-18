@@ -27,7 +27,7 @@ button:hover {
   cursor: pointer;
 }
 
-#clicker {
+#clicker1, #clicker2 {
   margin: 20px;
   color: yellow;
   background: red;
